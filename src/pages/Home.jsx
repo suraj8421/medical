@@ -100,36 +100,36 @@ const Home = () => {
         
         <div className="row">
           <div className="col-md-3">
-            <div className="card">
+            <div className="card card1">
               <img className="img2" src={heart} alt="heart" />
-              <h4 className="text-center">Heart Care Programs</h4>
+              <h4 className="text-center mt-4">Heart Care Programs</h4>
               <p className="info">
                 we provide everything you need to maintain a healthy heart all time
               </p>
             </div>
           </div>
           <div className="col-md-3">
-            <div className="card">
+            <div className="card card1">
               <img className="img2" src={child} alt="child" />
-              <h4 className="text-center">Pregnancy & Child Birth</h4>
+              <h4 className="text-center mt-4">Pregnancy & Child Birth</h4>
               <p className="info">
                 we provide everything you need to maintain a healthy heart all time
               </p>
             </div>
           </div>
           <div className="col-md-3">
-            <div className="card">
+            <div className="card card1">
               <img className="img2" src={lab} alt="lab" />
-              <h4 className="text-center">Laboratory Analysis</h4>
+              <h4 className="text-center mt-4">Laboratory Analysis</h4>
               <p className="info">
                 we provide everything you need to maintain a healthy heart all time
               </p>
             </div>
           </div>
           <div className="col-md-3">
-            <div className="card">
+            <div className="card card1">
               <img className="img2" src={digno} alt="digno" />
-              <h4 className="text-center">Imaging & Diagnostics</h4>
+              <h4 className="text-center mt-4">Imaging & Diagnostics</h4>
               <p className="info">
                 we provide everything you need to maintain a healthy heart all time
               </p>
@@ -143,7 +143,7 @@ const Home = () => {
           <div className="col-md-6">
           <video className="video" controls width="500" height="300">
         <source src="path_to_your_video.mp4" type="video/mp4" />
-        Your browser does not support the video tag.
+       
       </video>
           </div>
           <div className="col-md-6">
